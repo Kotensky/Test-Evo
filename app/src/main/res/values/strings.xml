@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Test evo</string>
+    <string name="error_message">Вибачте, сталась помилка</string>
+    <string name="action_switch_layout">Відображення</string>
+    <string name="action_search">Пошук</string>
+    <string name="action_sort">Сортування</string>
+    <string name="action_favorites">Улюблене</string>
+
+    <string name="favorites">Улюблене</string>
+
+    <string name="need_permission_title">Потрібен дозвіл</string>
+    <string name="need_permission_message">Для коректного зберігання в "улюблені" необхідний дозвіл на запис</string>
+    <string name="need_permission_positive">Надати</string>
+    <string name="need_permission_negative">Відхилити</string>
+</resources>
